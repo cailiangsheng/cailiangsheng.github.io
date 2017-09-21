@@ -1,1 +1,1 @@
-.txtReceived{display:block;width:100%;height:200px;background-color:#000;overflow:scroll}
+.received-messages,.send-wrapper{position:absolute;left:8px;right:8px}.send-text-wrapper{margin-right:58px}.send-text{width:100%}.send-button{float:right}.send-wrapper{bottom:8px}.received-messages{background-color:#000;list-style-type:none;padding-left:2px;margin-top:0;margin-bottom:0;display:block;top:8px;bottom:36px;overflow-y:auto;white-space:nowrap}body{height:100%}
